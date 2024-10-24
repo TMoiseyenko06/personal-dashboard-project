@@ -25,4 +25,4 @@ Welcome to my Movie Dashboard project! This application is built using Flask, Py
 ## Usage
 
     Open your web browser and navigate to http://127.0.0.1:5000 to access the dashboard.
-    Use the search feature to find movies and explore their details.
+    
